@@ -32,15 +32,8 @@ Trabalho com desenvolvimento de software focado em criar aplicações web robust
 ![Snyk](https://img.shields.io/badge/Snyk-7043D4?style=for-the-badge&logo=snyk&logoColor=white)
 
 
-### Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=X-Hugo-Gabriel-X&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Hugo Gabriel" height="180em" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=X-Hugo-Gabriel-X&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" height="180em" />
-</p>
-
 
 ###  Vamos nos conectar?
 
-*  [LinkedIn](https://www.linkedin.com/in/hugo-gabriel-da-silva-3a8677256/) <!-- Substitua pelo seu link do LinkedIn -->
-*  [E-mail](hugogabriel.bmvt@gmail.com) <!-- Substitua pelo seu e-mail -->
+ [LinkedIn](https://www.linkedin.com/in/hugo-gabriel-da-silva-3a8677256/) <!-- Substitua pelo seu link do LinkedIn -->
+ [E-mail](hugogabriel.bmvt@gmail.com) <!-- Substitua pelo seu e-mail -->
