@@ -5,8 +5,8 @@ Trabalho com desenvolvimento de software focado em criar aplicações web robust
 ---
 
 ###  Sobre Mim
-* 🎓 Estudante de TI na **UNIP** (Universidade Paulista).
-* 🌱 Desenvolvendo soluções com foco em arquitetura escalável, segurança e impacto ambiental.
+* Estudante de TI na **UNIP** (Universidade Paulista).
+* Desenvolvendo soluções com foco em arquitetura escalável, segurança e impacto ambiental.
 
 ---
 
