@@ -1,5 +1,7 @@
 <div align="center">
 
+![Snake animation](https://github.com/X-Hugo-Gabriel-X/X-Hugo-Gabriel-X/blob/output/github-contribution-grid-snake.svg)
+
 # Hugo Gabriel
 
 Desenvolvedor de software focado em aplicações web **robustas**, **escaláveis** e **eficientes**.
